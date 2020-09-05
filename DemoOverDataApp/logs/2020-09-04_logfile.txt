@@ -1,0 +1,73 @@
+2020-09-04 14:58:59.0596 INFO Attempted call
+2020-09-04 14:58:59.1759 INFO Successfully computed insurance premium.
+2020-09-04 15:03:15.5768 INFO Attempted call
+2020-09-04 15:03:15.6881 INFO Successfully computed insurance premium.
+2020-09-04 15:07:25.5148 INFO Attempted call
+2020-09-04 15:14:34.3560 INFO Attempted call
+2020-09-04 15:15:44.0758 INFO Attempted call
+2020-09-04 15:18:38.3463 INFO Attempted call
+2020-09-04 15:22:17.4494 INFO Attempted call
+2020-09-04 15:22:17.5594 WARN Couldn't proceed to compute. Check request parameters and retry.
+2020-09-04 15:25:43.8130 INFO Attempted call
+2020-09-04 15:25:43.8591 WARN Couldn't proceed to compute. Check request parameters and retry.
+2020-09-04 15:27:47.8404 INFO Attempted call
+2020-09-04 15:27:47.9111 WARN Couldn't proceed to compute. Check request parameters and retry.
+2020-09-04 15:27:55.0784 INFO Attempted call
+2020-09-04 15:27:55.0784 INFO Successfully computed insurance premium.
+2020-09-04 15:32:55.4672 INFO Attempted call
+2020-09-04 15:33:03.0872 INFO Successfully computed insurance premium.
+2020-09-04 15:35:42.9569 INFO Attempted call
+2020-09-04 15:35:45.8333 INFO Successfully computed insurance premium.
+2020-09-04 15:35:57.2828 INFO Attempted call
+2020-09-04 15:35:59.3851 INFO Successfully computed insurance premium.
+2020-09-04 15:38:56.8728 INFO Attempted call
+2020-09-04 15:38:56.9531 WARN Couldn't proceed to compute. Check request parameters and retry.
+2020-09-04 15:41:05.0029 INFO Attempted call
+2020-09-04 15:41:05.0896 WARN Couldn't proceed to compute. Check request parameters and retry.
+2020-09-04 15:41:12.2384 INFO Attempted call
+2020-09-04 15:41:12.2384 INFO Successfully computed insurance premium.
+2020-09-04 15:44:48.6533 INFO Attempted call
+2020-09-04 15:45:51.3871 INFO Attempted call
+2020-09-04 15:46:06.2739 INFO Successfully computed insurance premium.
+2020-09-04 15:49:38.0527 INFO Attempted call to compute Insurance Policy FIP 
+2020-09-04 15:49:38.1880 INFO Successfully computed insurance premium.
+2020-09-04 15:50:57.9872 INFO Attempted call to compute Insurance Policy TCM 
+2020-09-04 15:50:58.0833 WARN Couldn't proceed to compute. Check request parameters and retry.
+2020-09-04 15:51:24.5112 INFO Attempted call to compute Insurance Policy TCM 
+2020-09-04 15:51:24.5152 WARN Couldn't proceed to compute. Check request parameters and retry.
+2020-09-04 15:52:04.5474 INFO Attempted call to compute Insurance Policy TCM 
+2020-09-04 15:52:04.5474 WARN Couldn't proceed to compute. Check request parameters and retry.
+2020-09-04 15:52:21.9949 INFO Attempted call to compute Insurance Policy TCM 
+2020-09-04 15:52:21.9972 WARN Couldn't proceed to compute. Check request parameters and retry.
+2020-09-04 15:52:49.0959 INFO Attempted call to compute Insurance Policy TCM 
+2020-09-04 15:52:49.0959 WARN Couldn't proceed to compute. Check request parameters and retry.
+2020-09-04 15:53:27.8024 INFO Attempted call to compute Insurance Policy TCM 
+2020-09-04 15:53:34.4901 INFO Successfully computed insurance premium for TCM type.
+2020-09-04 16:06:52.8248 INFO Attempted call to compute Insurance Policy TCM 
+2020-09-04 16:08:07.5756 INFO Attempted call to compute Insurance Policy TCM 
+2020-09-04 16:09:07.5657 INFO Attempted call to compute Insurance Policy TCM 
+2020-09-04 16:21:13.3254 INFO Attempted call to compute Insurance Policy TCM 
+2020-09-04 16:21:13.3569 INFO Successfully computed insurance premium for TCM type.
+2020-09-04 16:23:34.9668 INFO Attempted call to compute Insurance Policy TCM 
+2020-09-04 16:23:35.0200 INFO Successfully computed insurance premium for TCM type.
+2020-09-04 16:24:37.9186 INFO Attempted call to compute Insurance Policy TCM 
+2020-09-04 16:24:38.0021 INFO Successfully computed insurance premium for TCM type.
+2020-09-04 16:26:14.8762 INFO Attempted call to compute Insurance Policy FIP 
+2020-09-04 16:26:14.9467 INFO Successfully computed insurance premium for FIP type.
+2020-09-04 16:31:12.6878 INFO Attempted call to compute Insurance Policy FIP 
+2020-09-04 16:33:09.9344 INFO Attempted call to compute Insurance Policy FIP 
+2020-09-04 16:34:00.6844 INFO Attempted call to compute Insurance Policy FIP 
+2020-09-04 16:36:36.9513 INFO Attempted call to compute Insurance Policy FIP 
+2020-09-04 16:37:30.8606 INFO Attempted call to compute Insurance Policy FIP 
+2020-09-04 16:38:43.6579 INFO Attempted call to compute Insurance Policy FIP 
+2020-09-04 16:41:46.3101 INFO Attempted call to compute Insurance Policy FIP 
+2020-09-04 16:46:37.8411 INFO Attempted call to compute Insurance Policy FIP 
+2020-09-04 16:46:42.3101 INFO Successfully computed insurance premium for FIP type.
+2020-09-04 16:47:02.8929 INFO Attempted call to compute Insurance Policy UL 
+2020-09-04 16:47:04.5277 WARN Couldn't proceed to compute. Check request parameters and retry.
+2020-09-04 16:47:46.1097 INFO Attempted call to compute Insurance Policy UL 
+2020-09-04 16:47:49.7297 INFO Successfully computed insurance premium for UL type.
+2020-09-04 18:18:00.1214 INFO Attempted call to compute Insurance Policy UL 
+2020-09-04 18:18:00.2039 INFO Successfully computed insurance premium for UL type.
+2020-09-04 18:25:44.8873 INFO Attempted call to compute Insurance Policy UL 
+2020-09-04 18:25:44.9766 INFO Successfully computed insurance premium for UL type.
