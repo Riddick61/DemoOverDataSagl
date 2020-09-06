@@ -54,6 +54,10 @@ RESPONSE:
     }
 }
 
+Nel controller Polizza, al metodo SimulaPremio istanzio la classe della polizza relativa, in questo caso il tipo è UL, quindi ValutazioneUL
 
-Nel controller istanzio la classe della polizza relativa, in questo caso il tipo è UL, quindi ValutazioneUL
+           // Call to Validazione and CalcolaPremio
+           var validaPol = new ValidazioneUL(dataDTO);
+           var response = validaPol.ValidazioneAndCalcoloPremio();
+                
 
