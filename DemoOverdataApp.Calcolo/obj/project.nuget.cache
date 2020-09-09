@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ObcnhzzYrmIY09j1sX+dnwj3zuMhy6bn5J6t6uufCTSkQaQWZEWsvdGGsmvXPK6ZxDhdXBBnC5ZT4ciw9BlzZA==",
+  "dgSpecHash": "v0l41KCXuSXHJ41iLMrdjg1mP6aYX5HTWz8CyOjE6CiMmKMCAmIN+4mvOUXw3zuQkeaJWRGnJiB/kzeNYbtgkQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\DemoOverDataApp\\DemoOverdataApp.Calcolo\\DemoOverdataApp.Calcolo.csproj",
+  "projectFilePath": "C:\\MyProjects\\DemoOverDataSagl\\DemoOverdataApp.Calcolo\\DemoOverdataApp.Calcolo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nmust\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],

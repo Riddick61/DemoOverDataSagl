@@ -515,21 +515,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nmust\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\nmust\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\DemoOverDataApp\\DemoOverDataApp\\DemoOverDataApp.csproj",
+      "projectUniqueName": "C:\\MyProjects\\DemoOverDataSagl\\DemoOverDataApp\\DemoOverDataApp.csproj",
       "projectName": "DemoOverDataApp",
-      "projectPath": "C:\\Projects\\DemoOverDataApp\\DemoOverDataApp\\DemoOverDataApp.csproj",
+      "projectPath": "C:\\MyProjects\\DemoOverDataSagl\\DemoOverDataApp\\DemoOverDataApp.csproj",
       "packagesPath": "C:\\Users\\nmust\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\DemoOverDataApp\\DemoOverDataApp\\obj\\",
+      "outputPath": "C:\\MyProjects\\DemoOverDataSagl\\DemoOverDataApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\nmust\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -544,8 +540,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Projects\\DemoOverDataApp\\DemoOverdataApp.Calcolo\\DemoOverdataApp.Calcolo.csproj": {
-              "projectPath": "C:\\Projects\\DemoOverDataApp\\DemoOverdataApp.Calcolo\\DemoOverdataApp.Calcolo.csproj"
+            "C:\\MyProjects\\DemoOverDataSagl\\DemoOverdataApp.Calcolo\\DemoOverdataApp.Calcolo.csproj": {
+              "projectPath": "C:\\MyProjects\\DemoOverDataSagl\\DemoOverdataApp.Calcolo\\DemoOverdataApp.Calcolo.csproj"
             }
           }
         }

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "uJvpPSESrsD1bpGhDa0grVn5kxWnwDJLO6KIdCBArGsqwi5Oy4ZnZA2/Zz3rzV/mHJcq+OmOhtR5DeFpjTPY+Q==",
+  "dgSpecHash": "T2yIH42b1SbVVij3MCbXGxI3XPhoM3wvlf9sp1juaz6N6PO7E2D21mp9dGSoIWrFa6yDa8HI1IN70qxnOoV3Xg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\DemoOverDataApp\\DemoOverdataApp.Shared\\DemoOverdataApp.Shared.csproj",
+  "projectFilePath": "C:\\MyProjects\\DemoOverDataSagl\\DemoOverdataApp.Shared\\DemoOverdataApp.Shared.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\nmust\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nmust\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\nmust\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
   "logs": []

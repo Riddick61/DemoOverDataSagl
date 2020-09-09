@@ -22,3 +22,15 @@ C:\Projects\DemoOverDataApp\DemoOverdataApp.Calcolo\obj\Debug\netcoreapp3.1\Demo
 C:\Projects\DemoOverDataApp\DemoOverdataApp.Calcolo\obj\Debug\netcoreapp3.1\DemoOverdataApp.Calcolo.csproj.CopyComplete
 C:\Projects\DemoOverDataApp\DemoOverdataApp.Calcolo\obj\Debug\netcoreapp3.1\DemoOverdataApp.Calcolo.dll
 C:\Projects\DemoOverDataApp\DemoOverdataApp.Calcolo\obj\Debug\netcoreapp3.1\DemoOverdataApp.Calcolo.pdb
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Calcolo\bin\Debug\netcoreapp3.1\DemoOverdataApp.Calcolo.deps.json
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Calcolo\bin\Debug\netcoreapp3.1\DemoOverdataApp.Calcolo.dll
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Calcolo\bin\Debug\netcoreapp3.1\DemoOverdataApp.Calcolo.pdb
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Calcolo\bin\Debug\netcoreapp3.1\DemoOverdataApp.Shared.dll
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Calcolo\bin\Debug\netcoreapp3.1\DemoOverdataApp.Shared.pdb
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Calcolo\obj\Debug\netcoreapp3.1\DemoOverdataApp.Calcolo.csprojAssemblyReference.cache
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Calcolo\obj\Debug\netcoreapp3.1\DemoOverdataApp.Calcolo.AssemblyInfoInputs.cache
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Calcolo\obj\Debug\netcoreapp3.1\DemoOverdataApp.Calcolo.AssemblyInfo.cs
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Calcolo\obj\Debug\netcoreapp3.1\DemoOverdataApp.Calcolo.csproj.CoreCompileInputs.cache
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Calcolo\obj\Debug\netcoreapp3.1\DemoOverdataApp.Calcolo.csproj.CopyComplete
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Calcolo\obj\Debug\netcoreapp3.1\DemoOverdataApp.Calcolo.dll
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Calcolo\obj\Debug\netcoreapp3.1\DemoOverdataApp.Calcolo.pdb

@@ -16,3 +16,12 @@ C:\Projects\DemoOverDataApp\DemoOverdataApp.Shared\obj\Debug\netstandard2.0\Demo
 C:\Projects\DemoOverDataApp\DemoOverdataApp.Shared\obj\Debug\netstandard2.0\DemoOverdataApp.Shared.csproj.CoreCompileInputs.cache
 C:\Projects\DemoOverDataApp\DemoOverdataApp.Shared\obj\Debug\netstandard2.0\DemoOverdataApp.Shared.dll
 C:\Projects\DemoOverDataApp\DemoOverdataApp.Shared\obj\Debug\netstandard2.0\DemoOverdataApp.Shared.pdb
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Shared\bin\Debug\netstandard2.0\DemoOverdataApp.Shared.deps.json
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Shared\bin\Debug\netstandard2.0\DemoOverdataApp.Shared.dll
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Shared\bin\Debug\netstandard2.0\DemoOverdataApp.Shared.pdb
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Shared\obj\Debug\netstandard2.0\DemoOverdataApp.Shared.csprojAssemblyReference.cache
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Shared\obj\Debug\netstandard2.0\DemoOverdataApp.Shared.AssemblyInfoInputs.cache
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Shared\obj\Debug\netstandard2.0\DemoOverdataApp.Shared.AssemblyInfo.cs
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Shared\obj\Debug\netstandard2.0\DemoOverdataApp.Shared.csproj.CoreCompileInputs.cache
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Shared\obj\Debug\netstandard2.0\DemoOverdataApp.Shared.dll
+C:\MyProjects\DemoOverDataSagl\DemoOverdataApp.Shared\obj\Debug\netstandard2.0\DemoOverdataApp.Shared.pdb

@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\DemoOverDataApp\\DemoOverdataApp.Calcolo\\DemoOverdataApp.Calcolo.csproj": {}
+    "C:\\MyProjects\\DemoOverDataSagl\\DemoOverdataApp.Calcolo\\DemoOverdataApp.Calcolo.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\DemoOverDataApp\\DemoOverdataApp.Calcolo\\DemoOverdataApp.Calcolo.csproj": {
+    "C:\\MyProjects\\DemoOverDataSagl\\DemoOverdataApp.Calcolo\\DemoOverdataApp.Calcolo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\DemoOverDataApp\\DemoOverdataApp.Calcolo\\DemoOverdataApp.Calcolo.csproj",
+        "projectUniqueName": "C:\\MyProjects\\DemoOverDataSagl\\DemoOverdataApp.Calcolo\\DemoOverdataApp.Calcolo.csproj",
         "projectName": "DemoOverdataApp.Calcolo",
-        "projectPath": "C:\\Projects\\DemoOverDataApp\\DemoOverdataApp.Calcolo\\DemoOverdataApp.Calcolo.csproj",
+        "projectPath": "C:\\MyProjects\\DemoOverDataSagl\\DemoOverdataApp.Calcolo\\DemoOverdataApp.Calcolo.csproj",
         "packagesPath": "C:\\Users\\nmust\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\DemoOverDataApp\\DemoOverdataApp.Calcolo\\obj\\",
+        "outputPath": "C:\\MyProjects\\DemoOverDataSagl\\DemoOverdataApp.Calcolo\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\nmust\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -30,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projects\\DemoOverDataApp\\DemoOverdataApp.Shared\\DemoOverdataApp.Shared.csproj": {
-                "projectPath": "C:\\Projects\\DemoOverDataApp\\DemoOverdataApp.Shared\\DemoOverdataApp.Shared.csproj"
+              "C:\\MyProjects\\DemoOverDataSagl\\DemoOverdataApp.Shared\\DemoOverdataApp.Shared.csproj": {
+                "projectPath": "C:\\MyProjects\\DemoOverDataSagl\\DemoOverdataApp.Shared\\DemoOverdataApp.Shared.csproj"
               }
             }
           }
@@ -63,18 +60,15 @@
         }
       }
     },
-    "C:\\Projects\\DemoOverDataApp\\DemoOverdataApp.Shared\\DemoOverdataApp.Shared.csproj": {
+    "C:\\MyProjects\\DemoOverDataSagl\\DemoOverdataApp.Shared\\DemoOverdataApp.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\DemoOverDataApp\\DemoOverdataApp.Shared\\DemoOverdataApp.Shared.csproj",
+        "projectUniqueName": "C:\\MyProjects\\DemoOverDataSagl\\DemoOverdataApp.Shared\\DemoOverdataApp.Shared.csproj",
         "projectName": "DemoOverdataApp.Shared",
-        "projectPath": "C:\\Projects\\DemoOverDataApp\\DemoOverdataApp.Shared\\DemoOverdataApp.Shared.csproj",
+        "projectPath": "C:\\MyProjects\\DemoOverDataSagl\\DemoOverdataApp.Shared\\DemoOverdataApp.Shared.csproj",
         "packagesPath": "C:\\Users\\nmust\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\DemoOverDataApp\\DemoOverdataApp.Shared\\obj\\",
+        "outputPath": "C:\\MyProjects\\DemoOverDataSagl\\DemoOverdataApp.Shared\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\nmust\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
