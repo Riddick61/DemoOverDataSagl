@@ -13,5 +13,11 @@
     <ProjectReference Include="..\DemoOverdataApp.Calcolo\DemoOverdataApp.Calcolo.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="C:\Users\nmust\.nuget\packages\nlog.config\4.7.4\contentFiles\any\any\NLog.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 
 </Project>
